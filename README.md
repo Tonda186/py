@@ -3,6 +3,7 @@
 1.**Potřebné programy**
   - k používání kodu stačí mít nainstalovaný Python, jiný program nepotřebujeme 
   - Python můžeme nainstalovat na tomto [linku](https://www.python.org/downloads/)
+  - potom si už stačí jenom stáhnout tento kod (rozklikneme si **zelené tlačítko Code** a klikneme na **Download ZIP**)
 
 2.**Návod k používání**
   - na konci kodu je promenná **výraz**
