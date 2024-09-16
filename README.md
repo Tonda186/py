@@ -11,11 +11,11 @@
   - v našem výrazu můžeme používat základní funkce, logarimtus, exponencielu, sinus, cosinus, tangens a cotangens
 
 3.**Jak program funguje**
-  - na začátku kod převede kod převede náš výraz, který je v infixovém zápisu, do postfixového
+  - na začátku kod převede náš výraz, který je v infixovém zápisu, do postfixového zápisu
   - dále jsme si pomocí Taylorových řad a vhodných vztahů zadefinovali naše funkce, které můžeme používat ve výrazu
   - následně, když máme výraz převedený do postfixu, nám náš kod vyhodnotí výraz a napíše výsledek
   - pokud ovšem během zpracovávání někde kod nalezne v řetězci chybu, do terminálu nám vypíše **SyntaxError**
-  - pokud v kodu jsou nějaké chybné tokeny, kod následně napíše do terminálu náš výchozí výraz, avšak chybný kod vybarví červeně
+  - pokud v kodu jsou nějaké chybné tokeny, kod následně napíše do terminálu náš výchozí výraz, avšak chybný token vybarví červeně
 
 
 
